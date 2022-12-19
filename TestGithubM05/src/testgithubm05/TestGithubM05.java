@@ -11,6 +11,7 @@ public class TestGithubM05 {
      */
     public static void main(String[] args) {
         // Primera prueba
+        System.out.println("Hola Mundo");
     }
     
 }
