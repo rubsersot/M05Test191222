@@ -12,10 +12,7 @@ public class TestGithubM05 {
     public static void main(String[] args) {
         // Primera prueba
         System.out.println("Hola Mundo!!!");
-        
-        for(int i = 0; i<500; i++){
-            System.out.println(i);
-        }
+        System.out.println("Soy Ruben");
     }
     
 }
